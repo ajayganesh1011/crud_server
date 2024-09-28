@@ -1,0 +1,88 @@
+{
+  "contacts": [
+    {
+      "name": "Prabhas",
+      "photo": "https://1847884116.rsc.cdn77.org/telugu/home/prabhas-040924.jpg",
+      "phone": "9856741230",
+      "email": "prabhas@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "S.R.K",
+      "photo": "https://www.koimoi.com/wp-content/new-galleries/2023/10/shah-rukh-khan-once-destroyed-a-journalist-who-rudely-asked-him-to-be-serious-during-a-press-meet-saying-ask-me-more-i-will-answer-you-when-he-ran-out-of-questions-01.jpg",
+      "phone": "9865473210",
+      "email": "srk@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Mohanlal",
+      "photo": "https://i.pinimg.com/originals/4e/d3/74/4ed374b0827ebcd7174e2356efacbcb2.jpg",
+      "phone": "9865473210",
+      "email": "mohanlal@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Vijay",
+      "photo": "https://images.news18.com/ibnlive/uploads/2024/01/image-3-31-2024-01-547c6c81199dc5f01cd8314a938143bb.jpg?impolicy=website&width=640&height=480",
+      "phone": "9895472251",
+      "email": "vijay@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Rajinikanth",
+      "photo": "https://wallpapers.com/images/hd/rajinikanth-aarupadayappan-role-yr13mu8deyywzz7p.jpg",
+      "phone": "85647914023",
+      "email": "rajinikanth@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Mammootty",
+      "photo": "https://pbs.twimg.com/profile_images/1649088268355653634/yRnzTnJg_400x400.jpg",
+      "phone": "7631245890",
+      "email": "mammootty@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Surya",
+      "photo": "https://miro.medium.com/v2/resize:fit:736/1*zODN2D1nGrDYFbuO3LU23w.jpeg",
+      "phone": "85647914023",
+      "email": "surya@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Dulquer Salmaan",
+      "photo": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/dulquer-salmaan-37626-19-09-2017-04-04-09.jpg",
+      "phone": "9856741230",
+      "email": "dulquer@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Tovino",
+      "photo": "https://www.bollywoodhungama.com/wp-content/uploads/2022/02/What-I-want-is-international-exposure-as-an-actor-says-Minnal-Murali-star-Tovino-Thomas-1.jpg",
+      "phone": "85647914023",
+      "email": "tovino@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Asif Ali",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpYUy9NwQvMJhsOeQt9-2onv65T8Z1fX_nQ&s",
+      "phone": "9856741230",
+      "email": "asifali@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Fahad Fassil",
+      "photo": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/fahadh-faasil-37756-1661702033.jpg",
+      "phone": "9895472251",
+      "email": "fahad@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Kamal Hassan",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kamal_haasan.jpg/220px-Kamal_haasan.jpg",
+      "phone": "7631245890",
+      "email": "kamal@gmail.com",
+      "id": 12
+    }
+  ]
+}
